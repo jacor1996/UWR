@@ -1,0 +1,32 @@
+-Swiatlo jako promieniowanie elektromagnetyczne
+
+
+
+
+
+-Swiatlo widzialne
+	Fale elektromagnetyczne, widzialne dla czlowieka o dlugosci pomiedzy 430nm a 690nm
+
+
+
+
+
+-Wielkosci fotometryczne
+	kandela - jednostka swiatlosci zródla swiatla oznaczana jako cd
+
+	luks - jednostka natezenia oswietlenia E (1 lx = 1 cd * sr / m^2)
+
+	lumen - jednostka miary strumienia swietlnego (1 lm = 1 cd * 1 sr) [sr - steradian, kat brylowy],
+		strumien swietlny wysylany w jednostkowy kat brylowy(1 sr) przez punktowe zródlo swiatla o 
+		swiatlosci jednej kandeli umieszczone w wierzcholku tego kata.
+
+-Zródla swiatla
+  a)termiczne - swiecace w wyniku rozgrzania ciala
+	-gwiazdy
+	-plomienie
+	-zarówki
+	-lampy halogenowe
+  b)wywolane emisja elektronów w atomie lub ciele stalym
+	-lampa fluorescencyjna
+	-lampa kwarcowa
+	-laser
